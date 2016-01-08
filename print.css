@@ -1,0 +1,15 @@
+@media print {
+	
+.header{
+display:none;
+}
+
+iframe {
+	display: none;
+	
+}
+.footer {
+	display:none;
+	
+}
+}
